@@ -10,7 +10,6 @@ knows_programming = True #True ან False
 is_ugly = False #snakecase(უბრალოდ წერის სტილი Python სტანდარტულად)
 
 print(name + " " + surname)
-
 print(type(age))
 print(type(name))
 print(type(surname))
@@ -18,3 +17,5 @@ print(type(height))
 print(type(knows_programming))
 
 print(name + " " + str(age))
+
+print (type(name))
