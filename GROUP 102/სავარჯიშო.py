@@ -17,6 +17,7 @@ if True:
     print("OF Course Bro")
 
 full_name = "Sandro Kukhaleishvili"
+
 print (len(full_name))
 
 print(full_name[1])
@@ -25,10 +26,13 @@ print(full_name[3:11])
 print(full_name[1:21:2])
 print(full_name[:6])
 print(full_name[7:])
+print(full_name[-3])
 print(full_name[-3:-10:-2])
-
+print(full_name[2]+"HAH")
+print(full_name[-1:-10:-1])
+print("k" not in full_name)
+print("a" in full_name )
 print(full_name.upper())
-
 name1 = "SANDRO KUKHALEISHVILI"
 print(full_name.lower())
 
@@ -42,4 +46,3 @@ print(surname1.replace("i","!"))
 
 
 
-print (""" dasdsadsa adsadsadas asdsa dasd asdsadas dasd sadas a""")
